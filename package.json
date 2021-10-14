@@ -1,7 +1,7 @@
 {
   "name": "type-proyect",
   "version": "1.0.0",
-  "description": "typescript practice",  
+  "description": "typescript practice",
   "scripts": {
     "hello": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "restify": "^8.6.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.5"
   }
 }
