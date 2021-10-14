@@ -1,0 +1,14 @@
+{
+  "name": "type-proyect",
+  "version": "1.0.0",
+  "description": "typescript practice",  
+  "scripts": {
+    "hello": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EMC",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.6.0"
+  }
+}
